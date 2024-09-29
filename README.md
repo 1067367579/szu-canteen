@@ -4,11 +4,11 @@
 
 使用了HTML,CSS,JavaScript编程语言进行编码, 该项目为静态网页, 不连接后端
 
-index.html是首页,描述了简要信息  
+index.html是首页,描述了简要信息, 为整个项目的入口  
 
-menu.html是菜单页  
+menu.html是菜单页，包含了多个菜品卡片，内含菜品名字，图片，价格  
 
-dish.html是菜品详情页  
+dish.html是菜品详情页，包含菜品的参考图片和菜品的简略介绍 
 
 images文件夹存储背景图和菜品图片  
 
